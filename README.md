@@ -1,2 +1,3 @@
-# streamlit_docker
-This repository is a project to run a streamlit application on a docker container
+#StreamlitDockerDemo
+This is a demo Uber app using streamlit.
+The dockerfile provided is the docker file to build a docker image to run the streamlit app in it
